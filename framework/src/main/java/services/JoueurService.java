@@ -9,5 +9,5 @@ public interface JoueurService {
      * @param id Id du joueur
      * @return le joueur demandé
      */
-    Joueur findById(long id);
+    Joueur findById(int id);
 }
